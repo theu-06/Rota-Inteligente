@@ -6,4 +6,4 @@ from src.main import run
 
 data_dir = os.path.join(base, "data")
 out_dir = os.path.join(base, "outputs")
-print(run(data_dir, out_dir, k_clusters=3, depot_name="Liberdade"))
+print(run(data_dir, out_dir, k_clusters=3, depot_name="Centro"))
